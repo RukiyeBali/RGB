@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Renk-değiştirme\Renk-değiştirme\obj\Debug\Renk-değiştirme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Renk-değiştirme\Renk-değiştirme\obj\Debug\Renk-değiştirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Renk-değiştirme\Renk-değiştirme\obj\Debug\Renk_değiştirme.Form1.resources
+C:\Users\User\Desktop\Renk-değiştirme\Renk-değiştirme\obj\Debug\Renk_değiştirme.Properties.Resources.resources
+C:\Users\User\Desktop\Renk-değiştirme\Renk-değiştirme\obj\Debug\Renk-değiştirme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Renk-değiştirme\Renk-değiştirme\obj\Debug\Renk-değiştirme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Renk-değiştirme\Renk-değiştirme\bin\Debug\Renk-değiştirme.exe.config
+C:\Users\User\Desktop\Renk-değiştirme\Renk-değiştirme\bin\Debug\Renk-değiştirme.exe
+C:\Users\User\Desktop\Renk-değiştirme\Renk-değiştirme\bin\Debug\Renk-değiştirme.pdb
+C:\Users\User\Desktop\Renk-değiştirme\Renk-değiştirme\obj\Debug\Renk-değiştirme.exe
+C:\Users\User\Desktop\Renk-değiştirme\Renk-değiştirme\obj\Debug\Renk-değiştirme.pdb
